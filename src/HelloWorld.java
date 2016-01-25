@@ -5,12 +5,11 @@ public class HelloWorld {
 		System.out.println("Hello World ");
 		
 		
-		
-	}	
+			}	
 	
 	public String getname()
 	{
-		return "vin";
+		return "vinay";
 	}
 
 		
